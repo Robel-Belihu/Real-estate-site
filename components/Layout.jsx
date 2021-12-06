@@ -10,9 +10,13 @@ function Layout({ children }) {
         <title>Real Estate</title>
       </Head>
       <Box maxWidth="1280px" m="auto">
-        <Navbar />
+        <header>
+          <Navbar />
+        </header>
         <main>{children}</main>
-        <Footer />
+        <footer>
+          <Footer />
+        </footer>
       </Box>
     </>
   );
