@@ -3,7 +3,7 @@ module.exports = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "images.unsplash.com",
+        hostname: "bayut-production.s3.eu-central-1.amazonaws.com",
       },
     ],
   },
