@@ -1,6 +1,6 @@
 A real estate app built with NextJs
 ---
-The hosted website -> https://real-estate-site-tau.vercel.app/search
+The hosted website -> https://real-estate-site-tau.vercel.app
 
 ![](./assets/images/image-estateCog-home1.png)
 ![](./assets/images/image-estateCog-home2.png)
