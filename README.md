@@ -1,4 +1,4 @@
-A real estate app built with NextJs
+A real estate app built with NEXTJS
 ---
 The hosted website -> https://real-estate-site-tau.vercel.app
 
